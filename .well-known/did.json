@@ -7,8 +7,8 @@
     "controller": "did:web:jalbfil.github.io",
     "publicKeyJwk": {
       "kty": "RSA",
-      "n": "<PEGA_AQUI_TU_N>",
-      "e": "<PEGA_AQUI_TU_E>"
+      "n": "nkO_rBUvtFdgNNm7OkY42ogyu65A9Xw7v1jyEZyECG29ivygBHX7E9X3E2Bk33pbOJ8kQjmsn6L-_It1N-shIJy9cTvnXEiWLgYbusTNpGPsVuenJM0VZILLGxfPPZjAoP1NMh5EbfUmB-CkJmn3YiBzTvioReLqJPkqkkbdoD0sHViEwLAiFRIT962xuWXpPdOcj_fddygaBHNZQl2KDIYOjByOfNBZrYdTK-5T2pFMwG44GwKYeWqbZrq3-GtB8RXNXV_xp_Je_fsElkrLYFl4-TnGtKluxGzB7AEbwD9NdByQ2tjhsmwBMOqFjy7HGKt7JYdAFjNaSrKsTemfUQ",
+      "e": "<AQAB>"
     }
   }],
   "assertionMethod": ["did:web:jalbfil.github.io#keys-1"]
